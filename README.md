@@ -47,6 +47,12 @@ MetaTrader 5.
 For Interactive Brokers, start TWS or IB Gateway with the API enabled, and set `api_ip` in the
 notebook (default port 7497 is paper trading).
 
+## Credits
+
+- **Victor Isakov**: author
+- **Sofia Sorto**: co-author of the First Bot Challenge bot
+- **Sajid Lhessani** (AlgoForce): co-author of the Opening Range Breakout bot
+
 ## License
 
 Licensed under the [Apache License 2.0](LICENSE).
