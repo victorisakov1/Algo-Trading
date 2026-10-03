@@ -53,6 +53,12 @@ notebook (default port 7497 is paper trading).
 - **Sofia Sorto**: co-author of the First Bot Challenge bot
 - **Sajid Lhessani** (AlgoForce): co-author of the Opening Range Breakout bot
 
+## Known issues
+
+A line-by-line review found problems that are not fixed yet, including several that could place
+unwanted orders. Read [KNOWN_ISSUES.md](KNOWN_ISSUES.md) before running any bot, and only use
+testnet or paper accounts.
+
 ## License
 
 Licensed under the [Apache License 2.0](LICENSE).
