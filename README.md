@@ -17,7 +17,7 @@ MetaTrader 5.
 | `Cleaning Template/` | Template for pulling Binance price data and cleaning it (types, missing values, duplicates) | Binance testnet |
 | `Forex (OANDA) Bot/` | Downloads historical candles and runs an RSI bot on 1-minute EUR/USD data | OANDA |
 | `IBKR/` | Connecting to Interactive Brokers, plus a stock screener that saves results to SQLite | Interactive Brokers, Yahoo Finance |
-| `Opening_Range_Break_Out/` | Opening range breakout bot for options with take-profit and stop-loss | Interactive Brokers |
+| `Opening_Range_Break_Out/` | Opening range breakout bot for options (work in progress: the take-profit and stop-loss orders are not finished, so don't run it on a live account) | Interactive Brokers |
 | `MT5/` | RSI strategy bot and backtest for MetaTrader 5 | MetaTrader 5 (Windows) |
 
 ## Getting started
