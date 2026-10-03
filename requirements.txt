@@ -1,0 +1,17 @@
+# Shared dependencies for all notebooks. Install with: pip install -r requirements.txt
+# TA-Lib also needs its C library installed first: https://ta-lib.org/install/
+jupyter
+pandas
+numpy
+matplotlib
+plotly
+TA-Lib
+pandas-ta
+python-binance
+requests
+ib_insync
+nest_asyncio
+yfinance
+sqlalchemy
+# MetaTrader5 runs on Windows only
+MetaTrader5; sys_platform == "win32"
